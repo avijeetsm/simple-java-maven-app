@@ -40,6 +40,7 @@ pipeline:
                     image: maven:latest
                     shell: Sh
                     command: |-
+                      printenv
                       curl -sSL -o /tmp/hcli https://storage.googleapis.com/harness-ti/hcli/vtest/hcli-linux-amd64
                       chmod +x /tmp/hcli
                       /tmp/hcli htx -- mvn test
