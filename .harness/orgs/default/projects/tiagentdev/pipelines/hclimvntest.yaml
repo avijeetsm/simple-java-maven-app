@@ -18,10 +18,11 @@ pipeline:
         spec:
           cloneCodebase: true
           caching:
-            enabled: true
+            enabled: false
             override: false
+            paths: []
           buildIntelligence:
-            enabled: true
+            enabled: false
           platform:
             os: Linux
             arch: Amd64
@@ -42,3 +43,44 @@ pipeline:
                       curl -sSL -o /tmp/hcli https://storage.googleapis.com/harness-ti/hcli/vtest/hcli-linux-amd64
                       chmod +x /tmp/hcli
                       /tmp/hcli htx -- mvn test
+        variables:
+          - name: CI_ENABLE_BARE_METAL
+            type: String
+            description: ""
+            required: false
+            value: "true"
+          - name: tls_client_certificate
+            type: Secret
+            description: ""
+            required: false
+            value: tls_client_certificate_text
+          - name: tls_client_key
+            type: Secret
+            description: ""
+            required: false
+            value: tls_client_key_text
+          - name: tls_certificate
+            type: Secret
+            description: ""
+            required: false
+            value: tls_certificate_text
+          - name: sa_token
+            type: Secret
+            description: ""
+            required: false
+            value: account.bot_harness_account_token
+          - name: CI_TI_V2_ENHANCED_FF
+            type: String
+            description: ""
+            required: false
+            value: "true"
+          - name: HARNESS_TI_QA_ENV
+            type: String
+            description: ""
+            required: false
+            value: QA_ENV_ENABLED
+          - name: CI_ENABLE_HCLI_FOR_TESTS
+            type: String
+            description: ""
+            required: false
+            value: "true"
