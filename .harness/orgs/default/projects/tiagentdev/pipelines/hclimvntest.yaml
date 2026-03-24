@@ -1,0 +1,44 @@
+pipeline:
+  name: hcli-mvn-test
+  identifier: hclimvntest
+  projectIdentifier: tiagentdev
+  orgIdentifier: default
+  tags: {}
+  properties:
+    ci:
+      codebase:
+        connectorRef: avijeetgradletest
+        build: <+input>
+  stages:
+    - stage:
+        name: test
+        identifier: test
+        description: ""
+        type: CI
+        spec:
+          cloneCodebase: true
+          caching:
+            enabled: true
+            override: false
+          buildIntelligence:
+            enabled: true
+          platform:
+            os: Linux
+            arch: Amd64
+          runtime:
+            type: Cloud
+            spec: {}
+          execution:
+            steps:
+              - step:
+                  type: Run
+                  name: Run_1
+                  identifier: Run_1
+                  spec:
+                    connectorRef: DockerHub
+                    image: maven:latest
+                    shell: Sh
+                    command: |-
+                      curl -sSL -o /tmp/hcli https://storage.googleapis.com/harness-ti/hcli/vtest/hcli-linux-amd64
+                      chmod +x /tmp/hcli
+                      /tmp/hcli htx -- mvn test
