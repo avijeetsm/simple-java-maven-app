@@ -1,0 +1,757 @@
+src/test/java/com/mycompany/app/App2Test.java
+  4bebcb0e-bb6b-4dd2-96d6-31a1157fcd5c 6-7,27-36
+src/test/java/com/mycompany/app/AppTest.java
+  4bebcb0e-bb6b-4dd2-96d6-31a1157fcd5c 6-7,27-36
+src/main/java/com/mycompany/app/Sample16.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample23.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample21Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample11.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample07.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample16Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample12Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample10.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample08Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample02Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample11Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample17Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample09.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample01Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample14.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample07Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample04.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample08.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample04Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample01.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample23Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample17.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample06.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample10Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample19.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample15.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample14Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample22.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample18.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample20Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample06Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample21.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample13Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample15Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample09Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample18Test.java
+  human 1-28
+src/test/java/com/mycompany/app/Sample03Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample05.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample22Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample13.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample05Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample03.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample20.java
+  human 1-25
+src/test/java/com/mycompany/app/Sample19Test.java
+  human 1-28
+src/main/java/com/mycompany/app/Sample02.java
+  human 1-25
+src/main/java/com/mycompany/app/Sample12.java
+  human 1-25
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 12,
+          "added_lines": 12,
+          "deleted_lines": 0,
+          "hash": "4bebcb0e-bb6b-4dd2-96d6-31a1157fcd5c",
+          "lines": "6-7,27-36",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/App2Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 12,
+          "added_lines": 12,
+          "deleted_lines": 0,
+          "hash": "4bebcb0e-bb6b-4dd2-96d6-31a1157fcd5c",
+          "lines": "6-7,27-36",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/AppTest.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample16.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample23.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample21Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample11.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample07.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample16Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample12Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample10.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample08Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample02Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample11Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample17Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample09.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample01Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample14.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample07Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample04.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample08.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample04Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample01.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample23Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample17.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample06.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample10Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample19.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample15.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample14Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample22.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample18.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample20Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample06Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample21.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample13Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample15Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample09Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample18Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample03Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample05.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample22Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample13.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample05Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample03.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample20.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-28",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/test/java/com/mycompany/app/Sample19Test.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample02.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample12.java"
+    }
+  ],
+  "base_commit_sha": "b7b4c7d559f66a017bb05bf545e7990c25d059cb",
+  "branch": "master",
+  "commit_sha": "b66a2e561e0d4a6aeeb7841514df78345fe49396",
+  "commit_time": "2026-05-05T16:49:03+05:30",
+  "commit_type": "direct_commit",
+  "git_ai_version": "1.4.2",
+  "prompts": {
+    "4bebcb0e-bb6b-4dd2-96d6-31a1157fcd5c": {
+      "accepted_lines": 24,
+      "agent_id": {
+        "id": "4bebcb0e-bb6b-4dd2-96d6-31a1157fcd5c",
+        "model": "composer-2",
+        "tool": "cursor"
+      },
+      "human_author": "Avijeet <avijeet.singhmandloi@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 24,
+      "total_deletions": 0
+    },
+    "human": {
+      "accepted_lines": 1219,
+      "agent_id": null,
+      "human_author": "Avijeet <avijeet.singhmandloi@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 1219,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/avijeetsm/simple-java-maven-app.git",
+  "schema_version": "authorship/3.0.0"
+}
