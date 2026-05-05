@@ -1,0 +1,73 @@
+config/local.properties
+  0485ac92-fd94-486e-9151-e6256a34aedb 1-2
+.ticonfig.yaml
+  0485ac92-fd94-486e-9151-e6256a34aedb 1-5
+config/app.properties
+  0485ac92-fd94-486e-9151-e6256a34aedb 1-2
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 0,
+          "hash": "0485ac92-fd94-486e-9151-e6256a34aedb",
+          "lines": "1-2",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "config/local.properties"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 5,
+          "added_lines": 5,
+          "deleted_lines": 0,
+          "hash": "0485ac92-fd94-486e-9151-e6256a34aedb",
+          "lines": "1-5",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".ticonfig.yaml"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 0,
+          "hash": "0485ac92-fd94-486e-9151-e6256a34aedb",
+          "lines": "1-2",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "config/app.properties"
+    }
+  ],
+  "base_commit_sha": "e9f75e2f8d3c537663ae42de54a8a6b66e7e2dba",
+  "branch": "master",
+  "commit_sha": "b7b4c7d559f66a017bb05bf545e7990c25d059cb",
+  "commit_time": "2026-05-05T16:40:20+05:30",
+  "commit_type": "direct_commit",
+  "git_ai_version": "1.4.2",
+  "prompts": {
+    "0485ac92-fd94-486e-9151-e6256a34aedb": {
+      "accepted_lines": 9,
+      "agent_id": {
+        "id": "0485ac92-fd94-486e-9151-e6256a34aedb",
+        "model": "claude-sonnet-4-6",
+        "tool": "claude"
+      },
+      "human_author": "Avijeet <avijeet.singhmandloi@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 9,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/avijeetsm/simple-java-maven-app.git",
+  "schema_version": "authorship/3.0.0"
+}
