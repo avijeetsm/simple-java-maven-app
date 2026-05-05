@@ -1,0 +1,5 @@
+config:
+  nonCode:
+    include:
+      - "pom.xml"
+      - "config/app.properties"
