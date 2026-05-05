@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Sample utility class 12 for demonstration tests.
+ * Sample utility class 12 for demonstration tests..
  */
 public final class Sample12 {
 
