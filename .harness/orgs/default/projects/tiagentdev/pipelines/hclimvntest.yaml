@@ -34,13 +34,6 @@ pipeline:
             steps:
               - step:
                   type: Run
-                  name: Run_2
-                  identifier: Run_2
-                  spec:
-                    shell: Sh
-                    command: env
-              - step:
-                  type: Run
                   name: Test
                   identifier: Run_1
                   spec:
