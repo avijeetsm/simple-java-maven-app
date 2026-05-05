@@ -1,0 +1,96 @@
+src/main/java/com/mycompany/app/Sample06.java
+  human 4
+  human 1-25
+src/main/java/com/mycompany/app/Sample02.java
+  human 4
+  human 1-25
+src/main/java/com/mycompany/app/Sample12.java
+  human 4
+  human 1-25
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "4",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 24,
+          "added_lines": 0,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample06.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "4",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 24,
+          "added_lines": 0,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample02.java"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "4",
+          "overridden_lines": 0
+        },
+        {
+          "accepted_lines": 24,
+          "added_lines": 0,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "1-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "src/main/java/com/mycompany/app/Sample12.java"
+    }
+  ],
+  "base_commit_sha": "b66a2e561e0d4a6aeeb7841514df78345fe49396",
+  "branch": "codeChange",
+  "commit_sha": "cab3c4edce0353809918e63ad89030b957ac428b",
+  "commit_time": "2026-05-05T17:01:09+05:30",
+  "commit_type": "direct_commit",
+  "git_ai_version": "1.4.2",
+  "prompts": {
+    "human": {
+      "accepted_lines": 3,
+      "agent_id": null,
+      "human_author": "Avijeet <avijeet.singhmandloi@harness.io>",
+      "messages": [],
+      "overriden_lines": 0,
+      "total_additions": 3,
+      "total_deletions": 0
+    }
+  },
+  "repo": "https://github.com/avijeetsm/simple-java-maven-app.git",
+  "schema_version": "authorship/3.0.0"
+}
